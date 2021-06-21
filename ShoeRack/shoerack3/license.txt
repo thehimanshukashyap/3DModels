@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Shoe Rack #1
+* source:	https://sketchfab.com/3d-models/low-poly-shoe-rack-1-2086d35fdecd43788fd2a707f7790187
+* author:	JustBlender (https://sketchfab.com/JustBlender)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Shoe Rack #1" (https://sketchfab.com/3d-models/low-poly-shoe-rack-1-2086d35fdecd43788fd2a707f7790187) by JustBlender (https://sketchfab.com/JustBlender) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

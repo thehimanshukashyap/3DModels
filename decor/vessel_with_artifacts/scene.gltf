@@ -1,0 +1,304 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 6372,
+      "max": [
+        1.9594571590423584,
+        1.6144537925720215,
+        0.18462198972702026
+      ],
+      "min": [
+        -1.7519315481185913,
+        -0.63924485445022583,
+        -5.6113524436950684
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 76464,
+      "componentType": 5126,
+      "count": 6372,
+      "max": [
+        0.99951314926147461,
+        1,
+        0.99994766712188721
+      ],
+      "min": [
+        -0.99971562623977661,
+        -1,
+        -0.99994760751724243
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 6372,
+      "max": [
+        0.99999487400054932,
+        0.9999314546585083,
+        0.99990874528884888,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99971383810043335,
+        -0.99988895654678345,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 6372,
+      "max": [
+        1,
+        2
+      ],
+      "min": [
+        -1,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 8835,
+      "max": [
+        6371
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 152928,
+      "componentType": 5126,
+      "count": 6632,
+      "max": [
+        2.6783392429351807,
+        1.4990030527114868,
+        0.82222700119018555
+      ],
+      "min": [
+        -2.6976287364959717,
+        -1.7360496520996094,
+        -6.1960911750793457
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 232512,
+      "componentType": 5126,
+      "count": 6632,
+      "max": [
+        0.99985021352767944,
+        0.99516582489013672,
+        0.99986708164215088
+      ],
+      "min": [
+        -0.9999116063117981,
+        -0.99997365474700928,
+        -0.983589768409729
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 101952,
+      "componentType": 5126,
+      "count": 6632,
+      "max": [
+        0.99979621171951294,
+        0.89066487550735474,
+        0.99940371513366699,
+        1
+      ],
+      "min": [
+        -0.99996268749237061,
+        -0.94362330436706543,
+        -0.99940598011016846,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 50976,
+      "componentType": 5126,
+      "count": 6632,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 35340,
+      "componentType": 5125,
+      "count": 27729,
+      "max": [
+        6631
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "cuerdadeplata (https://sketchfab.com/cuerdadeplata)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/vessel-with-artifacts-optimized-a872e446474948c3b54412a7993daec2",
+      "title": "Vessel With Artifacts Optimized"
+    },
+    "generator": "Sketchfab-6.33.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 146256,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 104032,
+      "byteOffset": 146256,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 312096,
+      "byteOffset": 250288,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 208064,
+      "byteOffset": 562384,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 770448,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "vessel_withArtifacts_optimized.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+

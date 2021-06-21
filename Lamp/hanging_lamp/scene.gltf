@@ -1,0 +1,327 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        -0.23716600239276886,
+        -0.91143399477005005,
+        1.328220009803772
+      ],
+      "min": [
+        -0.62666201591491699,
+        -1.2976880073547363,
+        1.0679349899291992
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 960,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        0.98322367668151855,
+        0.99147510528564453,
+        0.78893792629241943
+      ],
+      "min": [
+        -0.98322367668151855,
+        -0.99147510528564453,
+        -0.78893792629241943
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 120,
+      "max": [
+        79
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1920,
+      "componentType": 5126,
+      "count": 39,
+      "max": [
+        0.048365999013185501,
+        0.12056100368499756,
+        1.7773900032043457
+      ],
+      "min": [
+        -0.45670598745346069,
+        -1.1273080110549927,
+        0.01257999986410141
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2388,
+      "componentType": 5126,
+      "count": 39,
+      "max": [
+        0.99028593301773071,
+        0.96209776401519775,
+        0.62103855609893799
+      ],
+      "min": [
+        -0.98424553871154785,
+        -0.88202947378158569,
+        -0.99569100141525269
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 480,
+      "componentType": 5125,
+      "count": 222,
+      "max": [
+        38
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2856,
+      "componentType": 5126,
+      "count": 48,
+      "max": [
+        0.23987999558448792,
+        0.21271899342536926,
+        0.014201000332832336
+      ],
+      "min": [
+        -0.26362898945808411,
+        -0.29078900814056396,
+        -0.036518000066280365
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3432,
+      "componentType": 5126,
+      "count": 48,
+      "max": [
+        0.93365192413330078,
+        0.93365192413330078,
+        1
+      ],
+      "min": [
+        -0.93365192413330078,
+        -0.93365192413330078,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1368,
+      "componentType": 5125,
+      "count": 84,
+      "max": [
+        47
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "CameronMckenzie (https://sketchfab.com/CameronMckenzie)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/bcfe434d6c7d4ff280eb4fe14fd774ad",
+      "title": "Low Poly Modern Style Hanging Lamp  #MozHubsProp"
+    },
+    "generator": "Sketchfab-3.47.8",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1704,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4008,
+      "byteOffset": 1704,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5712,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "lampshade",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.52145600000000003,
+          0.49430499999999999,
+          0.36834699999999998,
+          0.98999999999999999
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.84349154199999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "stainlesssteel",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.376392,
+          0.376392,
+          0.376392,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.68698308399999997
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "white_marble",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.70921212864000005,
+          0.60465121148428325,
+          0.47438756027149204,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.84349154199999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5
+      ],
+      "name": "modernlamp.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+

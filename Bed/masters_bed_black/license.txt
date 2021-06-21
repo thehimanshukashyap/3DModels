@@ -1,0 +1,11 @@
+Model Information:
+* title:	Master's Bed Black
+* source:	https://sketchfab.com/3d-models/masters-bed-black-6aee6ef4ff0f4e5681f1054a77c702cb
+* author:	seanceezy (https://sketchfab.com/marianlisver)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Master's Bed Black" (https://sketchfab.com/3d-models/masters-bed-black-6aee6ef4ff0f4e5681f1054a77c702cb) by seanceezy (https://sketchfab.com/marianlisver) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

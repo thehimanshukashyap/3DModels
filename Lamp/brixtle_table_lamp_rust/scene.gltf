@@ -1,0 +1,374 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2983,
+      "max": [
+        83.295600891113281,
+        238.91879272460938,
+        1437.6553955078125
+      ],
+      "min": [
+        -294.39840698242188,
+        36.866600036621094,
+        925.48211669921875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 35796,
+      "componentType": 5126,
+      "count": 2983,
+      "max": [
+        0.99992918968200684,
+        0.99994146823883057,
+        1
+      ],
+      "min": [
+        -0.99992918968200684,
+        -0.99994099140167236,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2983,
+      "max": [
+        0.99971681833267212,
+        0.99998825788497925,
+        0.99938315153121948,
+        1
+      ],
+      "min": [
+        -0.99970287084579468,
+        -0.99998831748962402,
+        -0.99940246343612671,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 12528,
+      "max": [
+        2982
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 71592,
+      "componentType": 5126,
+      "count": 4092,
+      "max": [
+        83.894401550292969,
+        161.41679382324219,
+        1437.790283203125
+      ],
+      "min": [
+        -294.997314453125,
+        111.92359924316406,
+        1216.388916015625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 120696,
+      "componentType": 5126,
+      "count": 4092,
+      "max": [
+        0.99830657243728638,
+        0.99502444267272949,
+        0.99554133415222168
+      ],
+      "min": [
+        -0.99831169843673706,
+        -0.99502444267272949,
+        -0.99555069208145142
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 47728,
+      "componentType": 5126,
+      "count": 4092,
+      "max": [
+        0.75611960887908936,
+        0.9950253963470459,
+        0.89368420839309692,
+        1
+      ],
+      "min": [
+        -0.43768584728240967,
+        -0.99502354860305786,
+        -0.99868303537368774,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 50112,
+      "componentType": 5125,
+      "count": 6384,
+      "max": [
+        4091
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 169800,
+      "componentType": 5126,
+      "count": 2368,
+      "max": [
+        164.36970520019531,
+        179.74620056152344,
+        1482.5633544921875
+      ],
+      "min": [
+        -374.23611450195312,
+        93.036903381347656,
+        1171.5101318359375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 198216,
+      "componentType": 5126,
+      "count": 2368,
+      "max": [
+        0.99822056293487549,
+        0.99981242418289185,
+        0.99801772832870483
+      ],
+      "min": [
+        -0.99822056293487549,
+        -0.99981242418289185,
+        -0.99801880121231079
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 113200,
+      "componentType": 5126,
+      "count": 2368,
+      "max": [
+        0.44966307282447815,
+        0.99999046325683594,
+        0.905387282371521,
+        1
+      ],
+      "min": [
+        -0.44884300231933594,
+        -0.9999004602432251,
+        -0.90568286180496216,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 75648,
+      "componentType": 5125,
+      "count": 12288,
+      "max": [
+        2367
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Zuo Modern (https://sketchfab.com/zuo)",
+      "license": "CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+      "source": "https://sketchfab.com/models/00e0b555aa8343459cd5144ca43c6a65",
+      "title": "Brixton Table Lamp Rust - 56048"
+    },
+    "generator": "Sketchfab-3.18.7",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 124800,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 226632,
+      "byteOffset": 124800,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 151088,
+      "byteOffset": 351432,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 502520,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "black",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 0.79227271799999999
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "name": "wire_135005005",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.98608906330000001,
+          1,
+          0.2806968849,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.13772726349999997
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TANGENT": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5
+      ],
+      "name": "56048.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
